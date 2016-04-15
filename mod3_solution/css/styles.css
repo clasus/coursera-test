@@ -1,0 +1,28 @@
+
+#button-menu a{
+	text-align: center;
+}
+
+.navbar{
+  position: relative; /* this can also be static */
+}
+
+#title{
+	font-size: 200%;
+	margin-bottom: 30px;
+}
+
+._content p:nth-child(1){
+	text-align: center;
+	font-size: 150%;
+	margin-top: 10px;
+}
+
+.menu-section{
+	background-color: #808080;
+	margin-bottom: 30px;
+}
+
+._content{
+	margin: auto;
+}
